@@ -1,3 +1,2 @@
 # AccountBasedTodo
-Todo list with Account verification
-Go inside the folder for all files
+Todo list with Account verification - Go inside the folder for all files
